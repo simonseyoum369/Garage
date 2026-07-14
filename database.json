@@ -38,7 +38,7 @@
   "jobs": {
     "J1": {
       "jobId": "J1",
-      "status": "intake",
+      "status": "completed",
       "createdAt": "2026-07-14T11:47:15.002Z",
       "customer": {
         "name": "Hrr",
@@ -52,7 +52,11 @@
       "partsUsed": [],
       "photos": [],
       "receipt": null,
-      "payment": null
+      "payment": null,
+      "completedAt": "2026-07-14T12:03:01.446Z",
+      "mechanic": "T",
+      "laborHours": 5,
+      "laborCost": 1500
     }
   },
   "purchases": {},
