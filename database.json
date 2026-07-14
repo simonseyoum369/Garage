@@ -113,6 +113,23 @@
       "photos": [],
       "receipt": null,
       "payment": null
+    },
+    "J3": {
+      "jobId": "J3",
+      "status": "intake",
+      "createdAt": "2026-07-14T12:51:25.770Z",
+      "customer": {
+        "name": "Esam",
+        "phone": "3047"
+      },
+      "vehicle": {
+        "plate": "W2rd",
+        "details": "Jwjw"
+      },
+      "symptoms": "I2iwk",
+      "partsUsed": [],
+      "receipt": null,
+      "payment": null
     }
   },
   "purchases": {},
@@ -120,7 +137,7 @@
   "activityLog": [],
   "counters": {
     "customerId": 0,
-    "jobId": 2,
+    "jobId": 3,
     "purchaseId": 0,
     "payrollId": 0,
     "receiptNumber": 0
