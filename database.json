@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "garageName": "Yetem Garage",
+    "garagePhone": "0940640089",
+    "garageTIN": "",
+    "laborRatePerHour": 300,
+    "storageChannelId": "-1003845183436",
+    "storageChannelLink": "https://t.me/+lcK0CYpp6O8xYTg0",
+    "lastUpdated": "2026-07-14T07:00:00Z"
+  },
+  "users": {
+    "1079001399": {
+      "role": "admin",
+      "name": "Pipo",
+      "username": "@SIPIET",
+      "addedAt": "2026-07-14T07:00:00Z",
+      "addedBy": "system",
+      "isActive": true
+    },
+    "8944235144": {
+      "role": "owner",
+      "name": "Tusbusinessplc",
+      "username": "@Tus_business",
+      "addedAt": "2026-07-14T07:00:00Z",
+      "addedBy": "1079001399",
+      "isActive": true
+    },
+    "925805850": {
+      "role": "manager",
+      "name": "Bontu",
+      "username": "@B_esu",
+      "addedAt": "2026-07-14T07:00:00Z",
+      "addedBy": "1079001399",
+      "isActive": true
+    }
+  },
+  "customers": {},
+  "jobs": {},
+  "purchases": {},
+  "payrolls": {},
+  "activityLog": [],
+  "counters": {
+    "customerId": 0,
+    "jobId": 0,
+    "purchaseId": 0,
+    "payrollId": 0,
+    "receiptNumber": 0
+  }
+}
