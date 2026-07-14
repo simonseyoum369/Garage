@@ -9,6 +9,14 @@
     "lastUpdated": "2026-07-14T07:00:00Z"
   },
   "users": {
+    "925805850": {
+      "role": "manager",
+      "name": "Bontu",
+      "username": "@B_esu",
+      "addedAt": "2026-07-14T07:00:00Z",
+      "addedBy": "1079001399",
+      "isActive": true
+    },
     "1079001399": {
       "role": "admin",
       "name": "Pipo",
@@ -24,24 +32,35 @@
       "addedAt": "2026-07-14T07:00:00Z",
       "addedBy": "1079001399",
       "isActive": true
-    },
-    "925805850": {
-      "role": "manager",
-      "name": "Bontu",
-      "username": "@B_esu",
-      "addedAt": "2026-07-14T07:00:00Z",
-      "addedBy": "1079001399",
-      "isActive": true
     }
   },
   "customers": {},
-  "jobs": {},
+  "jobs": {
+    "J1": {
+      "jobId": "J1",
+      "status": "intake",
+      "createdAt": "2026-07-14T11:47:15.002Z",
+      "customer": {
+        "name": "Hrr",
+        "phone": "09"
+      },
+      "vehicle": {
+        "plate": "08",
+        "details": "Yt"
+      },
+      "symptoms": "Tt",
+      "partsUsed": [],
+      "photos": [],
+      "receipt": null,
+      "payment": null
+    }
+  },
   "purchases": {},
   "payrolls": {},
   "activityLog": [],
   "counters": {
     "customerId": 0,
-    "jobId": 0,
+    "jobId": 1,
     "purchaseId": 0,
     "payrollId": 0,
     "receiptNumber": 0
