@@ -95,6 +95,24 @@
       "mechanic": "T",
       "laborHours": 5,
       "laborCost": 1500
+    },
+    "J2": {
+      "jobId": "J2",
+      "status": "intake",
+      "createdAt": "2026-07-14T12:33:18.641Z",
+      "customer": {
+        "name": "Eee",
+        "phone": "0Oi"
+      },
+      "vehicle": {
+        "plate": "Keje",
+        "details": "Je"
+      },
+      "symptoms": "Ndnsk",
+      "partsUsed": [],
+      "photos": [],
+      "receipt": null,
+      "payment": null
     }
   },
   "purchases": {},
@@ -102,7 +120,7 @@
   "activityLog": [],
   "counters": {
     "customerId": 0,
-    "jobId": 1,
+    "jobId": 2,
     "purchaseId": 0,
     "payrollId": 0,
     "receiptNumber": 0
