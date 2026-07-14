@@ -89,7 +89,10 @@
         "amount": 490,
         "ref": "Dear  Simon Seyoum Ayele You have successfully transferred ETB490.00 from account 1********0922 to account 1********8408 (Halima Ahmed Emam). Service charge of ETB 0.50 and VAT(15%) of ETB0.08 and Disaster Recovery(5%) of 0.03 with total of ETB490.61 .Your current balance is ETB5.71. Thanks for Banking with CBE. https://mbreciept.cbe.com.et/v2-hfHCxzLawXWU7EAtadk4",
         "changeGiven": 0,
-        "paidAt": "2026-07-14T12:04:55.842Z"
+        "paidAt": "2026-07-14T12:04:55.842Z",
+        "verified": true,
+        "verifiedAt": "2026-07-14T13:08:32.006Z",
+        "verifiedManually": true
       },
       "completedAt": "2026-07-14T12:03:01.446Z",
       "mechanic": "T",
