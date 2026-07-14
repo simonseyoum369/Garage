@@ -51,7 +51,38 @@
       "symptoms": "Tt",
       "partsUsed": [],
       "photos": [],
-      "receipt": null,
+      "receipt": {
+        "receiptNumber": "5",
+        "generatedAt": "2026-07-14T12:03:24.667Z",
+        "customer": {
+          "name": "Hrr",
+          "tin": "567"
+        },
+        "vehicle": {
+          "plate": "08"
+        },
+        "services": [
+          {
+            "description": "Tt",
+            "laborHours": 5,
+            "rate": 300,
+            "cost": 1500
+          }
+        ],
+        "partsUsed": [],
+        "totals": {
+          "laborTotal": 1500,
+          "partsTotal": 0,
+          "subtotal": 1500,
+          "vatRate": 0,
+          "vatAmount": 0,
+          "totalAfterVat": 1500
+        },
+        "withholding": {
+          "hasReceipt": false
+        },
+        "attachments": {}
+      },
       "payment": null,
       "completedAt": "2026-07-14T12:03:01.446Z",
       "mechanic": "T",
