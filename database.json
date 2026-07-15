@@ -169,6 +169,40 @@
       },
       "receiptPhoto": null,
       "recordedBy": "Bontu"
+    },
+    "PUR2": {
+      "purchaseId": "PUR2",
+      "date": "2026-07-15T08:08:09.079Z",
+      "supplierId": null,
+      "supplier": {
+        "name": "Nari",
+        "tin": "648302"
+      },
+      "items": [
+        {
+          "name": "Pipe",
+          "quantity": 4,
+          "unitPrice": 500,
+          "totalBeforeVat": 2000
+        }
+      ],
+      "totals": {
+        "subtotalBeforeVat": 2000,
+        "vatRate": 0,
+        "vatAmount": 0,
+        "totalAfterVat": 2000,
+        "withholdingRate": 0,
+        "withholdingAmount": 0,
+        "netPayable": 2000
+      },
+      "payment": {
+        "method": "bank",
+        "status": "paid",
+        "paidAmount": 2000,
+        "remaining": 0
+      },
+      "receiptPhoto": null,
+      "recordedBy": "Bontu"
     }
   },
   "payrolls": {},
@@ -176,7 +210,7 @@
   "counters": {
     "customerId": 0,
     "jobId": 3,
-    "purchaseId": 1,
+    "purchaseId": 2,
     "payrollId": 0,
     "receiptNumber": 0,
     "supplierId": 1
