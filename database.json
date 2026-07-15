@@ -135,14 +135,56 @@
       "payment": null
     }
   },
-  "purchases": {},
+  "purchases": {
+    "PUR1": {
+      "purchaseId": "PUR1",
+      "date": "2026-07-15T08:06:00.699Z",
+      "supplierId": null,
+      "supplier": {
+        "name": "Simon",
+        "tin": "00890272"
+      },
+      "items": [
+        {
+          "name": "Ranch",
+          "quantity": 3,
+          "unitPrice": 200,
+          "totalBeforeVat": 600
+        }
+      ],
+      "totals": {
+        "subtotalBeforeVat": 600,
+        "vatRate": 15,
+        "vatAmount": 90,
+        "totalAfterVat": 690,
+        "withholdingRate": 0,
+        "withholdingAmount": 0,
+        "netPayable": 690
+      },
+      "payment": {
+        "method": "cash",
+        "status": "paid",
+        "paidAmount": 690,
+        "remaining": 0
+      },
+      "receiptPhoto": null,
+      "recordedBy": "Bontu"
+    }
+  },
   "payrolls": {},
   "activityLog": [],
   "counters": {
     "customerId": 0,
     "jobId": 3,
-    "purchaseId": 0,
+    "purchaseId": 1,
     "payrollId": 0,
-    "receiptNumber": 0
+    "receiptNumber": 0,
+    "supplierId": 1
+  },
+  "suppliers": {
+    "S1": {
+      "name": "Simon",
+      "tin": "00890272"
+    }
   }
 }
