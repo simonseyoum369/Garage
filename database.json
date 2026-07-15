@@ -203,6 +203,41 @@
       },
       "receiptPhoto": null,
       "recordedBy": "Bontu"
+    },
+    "PUR3": {
+      "purchaseId": "PUR3",
+      "date": "2026-07-15T08:39:04.201Z",
+      "supplierId": null,
+      "supplier": {
+        "name": "Ieie",
+        "tin": "33"
+      },
+      "items": [
+        {
+          "name": "422",
+          "quantity": 4,
+          "unitPrice": 444,
+          "totalBeforeVat": 1776
+        }
+      ],
+      "totals": {
+        "subtotalBeforeVat": 1776,
+        "vatRate": 0,
+        "vatAmount": 0,
+        "totalAfterVat": 1776,
+        "withholdingRate": 0,
+        "withholdingAmount": 0,
+        "netPayable": 1776
+      },
+      "payment": {
+        "method": "credit",
+        "status": "credit",
+        "paidAmount": 0,
+        "remaining": 1776,
+        "dueDate": "2026_07-29"
+      },
+      "receiptPhoto": null,
+      "recordedBy": "Pipo"
     }
   },
   "payrolls": {},
@@ -213,12 +248,18 @@
     "purchaseId": 2,
     "payrollId": 0,
     "receiptNumber": 0,
-    "supplierId": 1
+    "supplierId": 2
   },
   "suppliers": {
     "S1": {
       "name": "Simon",
       "tin": "00890272"
+    },
+    "S2": {
+      "name": "Ieie",
+      "tin": "33",
+      "creditLimit": 50000,
+      "currentCredit": 1776
     }
   }
 }
